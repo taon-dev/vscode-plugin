@@ -3,7 +3,7 @@
   "version": "v21",
   "appId": "com.domain.example.vscode-plugin",
 
-   "overrideNpmName": "@taon-dev/cloud",
+   "overrideNpmName": "@taon-dev/vscode-plugin",
 
   "autoReleaseConfigAllowedItems": [{
     "artifactName": "npm-lib-and-cli-tool",
